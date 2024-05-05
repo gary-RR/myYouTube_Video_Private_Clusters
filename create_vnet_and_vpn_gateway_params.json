@@ -1,0 +1,36 @@
+{   
+    "appName": {
+      "value": "cosmo"
+    },
+    "createGateway": {
+      "value": "no"
+    },
+    "vnetAddressPrefixes": {
+      "value": "10.0.0.0/8"
+    },
+    "frontendSubnetAddressPrefixes": {
+      "value": "10.0.1.0/24"
+    },
+    "backendSubnetAddressPrefixes": {
+      "value": "10.0.2.0/24"
+    },
+    "gatewaySubnetAddressPrefixes": {
+      "value": "10.0.3.0/24"
+    },
+    "bastionHostAddressPrefixes": {
+      "value": "10.0.4.0/26"
+    },
+    "apiServerSubnetAddressPrefixes": {
+      "value": "10.0.6.0/23"
+    },
+    "clusterSubnetAddressPrefixes": {
+      "value": "10.0.8.0/23"
+    },
+    "internalLoadbalancerServicesSubnetAddressPrefixes": {
+      "value": "10.0.10.0/24"
+    },
+    "vpnClientAddressPrefix": {
+      "value": "172.16.201.0/24"
+    }
+  }
+  

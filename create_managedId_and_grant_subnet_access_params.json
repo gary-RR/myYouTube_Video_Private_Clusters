@@ -1,0 +1,15 @@
+{  
+  "managedKubeNetworkIdentityName": {
+    "value": "kubeNetworkManager-test"
+  },
+  "apiServerSubnetName": {
+    "value": "apiServerSubnet"
+  },
+  "clusterSubnetName": {
+    "value": "clusterSubnet"
+  },
+  "internalLoadbalancerServicesSubnetName": {
+    "value": "internalLoadbalancerServicesSubnet"
+  }
+}
+

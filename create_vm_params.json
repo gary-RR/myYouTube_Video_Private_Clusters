@@ -1,0 +1,11 @@
+{
+    "adminUsername": {
+      "value": "gary"
+    },
+    "patchMode": {
+      "value": "AutomaticByPlatform"
+    },
+    "rebootSetting": {
+      "value": "IfRequired"
+    }
+  }
